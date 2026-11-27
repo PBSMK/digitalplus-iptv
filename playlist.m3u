@@ -9,6 +9,6 @@ https://iptv-org.github.io/iptv/countries/br.m3u
 #EXTBG:https://i.ibb.co/C1MtCkN/image.png
 https://nexonic-technologies.github.io/nexonic-iptv/playlists/vod/movies.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://i.ibb.co/41gWh6P/image.png",SÉRIES
+#EXTINF:0 type="playlist" tvg-logo="https://i.ibb.co/VYPJBvH/background.png",SÉRIES
 #EXTBG:https://i.ibb.co/41gWh6P/image.png
 https://nexonic-technologies.github.io/nexonic-iptv/playlists/vod/series.m3u
